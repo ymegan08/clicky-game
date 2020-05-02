@@ -1,0 +1,45 @@
+[{
+    "id": 1,
+    "image": "./assets/images/donald.png",
+    "clicked": false
+},
+{
+    "id": 2,
+    "image": "./assets/images/minnie.png",
+    "clicked": false
+},
+{
+    "id": 3,
+    "image": "./assets/images/pluto.png",
+    "clicked": false
+},
+{
+    "id": 4,
+    "image": "./assets/images/mickey.png",
+    "clicked": false
+},
+{
+    "id": 5,
+    "image": "./assets/images/goofy.png",
+    "clicked": false
+},
+{
+    "id": 6,
+    "image": "./assets/images/group.png",
+    "clicked": false
+},
+{
+    "id": 7,
+    "image": "./assets/images/minnie2.png",
+    "clicked": false
+},
+{
+    "id": 8,
+    "image": "./assets/images/baby.png",
+    "clicked": false
+},
+{
+    "id": 9,
+    "image": "./assets/images/puppy.png",
+    "clicked": false
+}]

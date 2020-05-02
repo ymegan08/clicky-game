@@ -1,0 +1,21 @@
+body{
+    font-family: 'Concert One', cursive;
+}
+
+.title{
+    width: 100%;
+    text-align: center;
+    color: #c91878;
+}
+
+.scoreDiv{
+    width:100%;
+    text-align:center;
+    color: #f573ba;
+}
+
+.row {
+    margin: 20px; 
+    padding-left: 40px;
+    margin-right: -20vh;
+}
